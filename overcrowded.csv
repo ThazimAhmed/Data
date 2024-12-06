@@ -1,0 +1,241 @@
+Regions Code,Regions,Occupancy rating for bedrooms (3 categories) Code,Occupancy rating for bedrooms (3 categories),Ethnic group (8 categories) Code,Ethnic group (8 categories),Observation
+E12000001,North East,-8,Does not apply,-8,Does not apply,0
+E12000001,North East,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",0
+E12000001,North East,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",0
+E12000001,North East,-8,Does not apply,3,Mixed or Multiple ethnic groups,0
+E12000001,North East,-8,Does not apply,4,"White: English, Welsh, Scottish, Northern Irish or British",0
+E12000001,North East,-8,Does not apply,5,White: Irish,0
+E12000001,North East,-8,Does not apply,6,"White: Gypsy or Irish Traveller, Roma or Other White",0
+E12000001,North East,-8,Does not apply,7,Other ethnic group,0
+E12000001,North East,1,Occupancy rating of bedrooms: 0 or more,-8,Does not apply,0
+E12000001,North East,1,Occupancy rating of bedrooms: 0 or more,1,"Asian, Asian British or Asian Welsh",26911
+E12000001,North East,1,Occupancy rating of bedrooms: 0 or more,2,"Black, Black British, Black Welsh, Caribbean or African",8490
+E12000001,North East,1,Occupancy rating of bedrooms: 0 or more,3,Mixed or Multiple ethnic groups,7871
+E12000001,North East,1,Occupancy rating of bedrooms: 0 or more,4,"White: English, Welsh, Scottish, Northern Irish or British",1073640
+E12000001,North East,1,Occupancy rating of bedrooms: 0 or more,5,White: Irish,4570
+E12000001,North East,1,Occupancy rating of bedrooms: 0 or more,6,"White: Gypsy or Irish Traveller, Roma or Other White",21833
+E12000001,North East,1,Occupancy rating of bedrooms: 0 or more,7,Other ethnic group,8672
+E12000001,North East,2,Occupancy rating of bedrooms: -1 or less,-8,Does not apply,0
+E12000001,North East,2,Occupancy rating of bedrooms: -1 or less,1,"Asian, Asian British or Asian Welsh",2632
+E12000001,North East,2,Occupancy rating of bedrooms: -1 or less,2,"Black, Black British, Black Welsh, Caribbean or African",987
+E12000001,North East,2,Occupancy rating of bedrooms: -1 or less,3,Mixed or Multiple ethnic groups,245
+E12000001,North East,2,Occupancy rating of bedrooms: -1 or less,4,"White: English, Welsh, Scottish, Northern Irish or British",17919
+E12000001,North East,2,Occupancy rating of bedrooms: -1 or less,5,White: Irish,41
+E12000001,North East,2,Occupancy rating of bedrooms: -1 or less,6,"White: Gypsy or Irish Traveller, Roma or Other White",1113
+E12000001,North East,2,Occupancy rating of bedrooms: -1 or less,7,Other ethnic group,755
+E12000002,North West,-8,Does not apply,-8,Does not apply,0
+E12000002,North West,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",0
+E12000002,North West,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",0
+E12000002,North West,-8,Does not apply,3,Mixed or Multiple ethnic groups,0
+E12000002,North West,-8,Does not apply,4,"White: English, Welsh, Scottish, Northern Irish or British",0
+E12000002,North West,-8,Does not apply,5,White: Irish,0
+E12000002,North West,-8,Does not apply,6,"White: Gypsy or Irish Traveller, Roma or Other White",0
+E12000002,North West,-8,Does not apply,7,Other ethnic group,0
+E12000002,North West,1,Occupancy rating of bedrooms: 0 or more,-8,Does not apply,0
+E12000002,North West,1,Occupancy rating of bedrooms: 0 or more,1,"Asian, Asian British or Asian Welsh",147588
+E12000002,North West,1,Occupancy rating of bedrooms: 0 or more,2,"Black, Black British, Black Welsh, Caribbean or African",55364
+E12000002,North West,1,Occupancy rating of bedrooms: 0 or more,3,Mixed or Multiple ethnic groups,38426
+E12000002,North West,1,Occupancy rating of bedrooms: 0 or more,4,"White: English, Welsh, Scottish, Northern Irish or British",2637894
+E12000002,North West,1,Occupancy rating of bedrooms: 0 or more,5,White: Irish,35168
+E12000002,North West,1,Occupancy rating of bedrooms: 0 or more,6,"White: Gypsy or Irish Traveller, Roma or Other White",100922
+E12000002,North West,1,Occupancy rating of bedrooms: 0 or more,7,Other ethnic group,33633
+E12000002,North West,2,Occupancy rating of bedrooms: -1 or less,-8,Does not apply,0
+E12000002,North West,2,Occupancy rating of bedrooms: -1 or less,1,"Asian, Asian British or Asian Welsh",26874
+E12000002,North West,2,Occupancy rating of bedrooms: -1 or less,2,"Black, Black British, Black Welsh, Caribbean or African",8669
+E12000002,North West,2,Occupancy rating of bedrooms: -1 or less,3,Mixed or Multiple ethnic groups,2044
+E12000002,North West,2,Occupancy rating of bedrooms: -1 or less,4,"White: English, Welsh, Scottish, Northern Irish or British",54395
+E12000002,North West,2,Occupancy rating of bedrooms: -1 or less,5,White: Irish,489
+E12000002,North West,2,Occupancy rating of bedrooms: -1 or less,6,"White: Gypsy or Irish Traveller, Roma or Other White",7336
+E12000002,North West,2,Occupancy rating of bedrooms: -1 or less,7,Other ethnic group,4601
+E12000003,Yorkshire and The Humber,-8,Does not apply,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",0
+E12000003,Yorkshire and The Humber,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",0
+E12000003,Yorkshire and The Humber,-8,Does not apply,3,Mixed or Multiple ethnic groups,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,4,"White: English, Welsh, Scottish, Northern Irish or British",0
+E12000003,Yorkshire and The Humber,-8,Does not apply,5,White: Irish,0
+E12000003,Yorkshire and The Humber,-8,Does not apply,6,"White: Gypsy or Irish Traveller, Roma or Other White",0
+E12000003,Yorkshire and The Humber,-8,Does not apply,7,Other ethnic group,0
+E12000003,Yorkshire and The Humber,1,Occupancy rating of bedrooms: 0 or more,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,1,Occupancy rating of bedrooms: 0 or more,1,"Asian, Asian British or Asian Welsh",114256
+E12000003,Yorkshire and The Humber,1,Occupancy rating of bedrooms: 0 or more,2,"Black, Black British, Black Welsh, Caribbean or African",40965
+E12000003,Yorkshire and The Humber,1,Occupancy rating of bedrooms: 0 or more,3,Mixed or Multiple ethnic groups,26094
+E12000003,Yorkshire and The Humber,1,Occupancy rating of bedrooms: 0 or more,4,"White: English, Welsh, Scottish, Northern Irish or British",1958576
+E12000003,Yorkshire and The Humber,1,Occupancy rating of bedrooms: 0 or more,5,White: Irish,14695
+E12000003,Yorkshire and The Humber,1,Occupancy rating of bedrooms: 0 or more,6,"White: Gypsy or Irish Traveller, Roma or Other White",82801
+E12000003,Yorkshire and The Humber,1,Occupancy rating of bedrooms: 0 or more,7,Other ethnic group,24020
+E12000003,Yorkshire and The Humber,2,Occupancy rating of bedrooms: -1 or less,-8,Does not apply,0
+E12000003,Yorkshire and The Humber,2,Occupancy rating of bedrooms: -1 or less,1,"Asian, Asian British or Asian Welsh",17619
+E12000003,Yorkshire and The Humber,2,Occupancy rating of bedrooms: -1 or less,2,"Black, Black British, Black Welsh, Caribbean or African",5211
+E12000003,Yorkshire and The Humber,2,Occupancy rating of bedrooms: -1 or less,3,Mixed or Multiple ethnic groups,1403
+E12000003,Yorkshire and The Humber,2,Occupancy rating of bedrooms: -1 or less,4,"White: English, Welsh, Scottish, Northern Irish or British",35156
+E12000003,Yorkshire and The Humber,2,Occupancy rating of bedrooms: -1 or less,5,White: Irish,198
+E12000003,Yorkshire and The Humber,2,Occupancy rating of bedrooms: -1 or less,6,"White: Gypsy or Irish Traveller, Roma or Other White",6505
+E12000003,Yorkshire and The Humber,2,Occupancy rating of bedrooms: -1 or less,7,Other ethnic group,3162
+E12000004,East Midlands,-8,Does not apply,-8,Does not apply,0
+E12000004,East Midlands,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",0
+E12000004,East Midlands,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",0
+E12000004,East Midlands,-8,Does not apply,3,Mixed or Multiple ethnic groups,0
+E12000004,East Midlands,-8,Does not apply,4,"White: English, Welsh, Scottish, Northern Irish or British",0
+E12000004,East Midlands,-8,Does not apply,5,White: Irish,0
+E12000004,East Midlands,-8,Does not apply,6,"White: Gypsy or Irish Traveller, Roma or Other White",0
+E12000004,East Midlands,-8,Does not apply,7,Other ethnic group,0
+E12000004,East Midlands,1,Occupancy rating of bedrooms: 0 or more,-8,Does not apply,0
+E12000004,East Midlands,1,Occupancy rating of bedrooms: 0 or more,1,"Asian, Asian British or Asian Welsh",102768
+E12000004,East Midlands,1,Occupancy rating of bedrooms: 0 or more,2,"Black, Black British, Black Welsh, Caribbean or African",42880
+E12000004,East Midlands,1,Occupancy rating of bedrooms: 0 or more,3,Mixed or Multiple ethnic groups,24603
+E12000004,East Midlands,1,Occupancy rating of bedrooms: 0 or more,4,"White: English, Welsh, Scottish, Northern Irish or British",1677158
+E12000004,East Midlands,1,Occupancy rating of bedrooms: 0 or more,5,White: Irish,15534
+E12000004,East Midlands,1,Occupancy rating of bedrooms: 0 or more,6,"White: Gypsy or Irish Traveller, Roma or Other White",92811
+E12000004,East Midlands,1,Occupancy rating of bedrooms: 0 or more,7,Other ethnic group,17822
+E12000004,East Midlands,2,Occupancy rating of bedrooms: -1 or less,-8,Does not apply,0
+E12000004,East Midlands,2,Occupancy rating of bedrooms: -1 or less,1,"Asian, Asian British or Asian Welsh",14395
+E12000004,East Midlands,2,Occupancy rating of bedrooms: -1 or less,2,"Black, Black British, Black Welsh, Caribbean or African",5289
+E12000004,East Midlands,2,Occupancy rating of bedrooms: -1 or less,3,Mixed or Multiple ethnic groups,1410
+E12000004,East Midlands,2,Occupancy rating of bedrooms: -1 or less,4,"White: English, Welsh, Scottish, Northern Irish or British",31341
+E12000004,East Midlands,2,Occupancy rating of bedrooms: -1 or less,5,White: Irish,215
+E12000004,East Midlands,2,Occupancy rating of bedrooms: -1 or less,6,"White: Gypsy or Irish Traveller, Roma or Other White",8639
+E12000004,East Midlands,2,Occupancy rating of bedrooms: -1 or less,7,Other ethnic group,2467
+E12000005,West Midlands,-8,Does not apply,-8,Does not apply,0
+E12000005,West Midlands,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",0
+E12000005,West Midlands,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",0
+E12000005,West Midlands,-8,Does not apply,3,Mixed or Multiple ethnic groups,0
+E12000005,West Midlands,-8,Does not apply,4,"White: English, Welsh, Scottish, Northern Irish or British",0
+E12000005,West Midlands,-8,Does not apply,5,White: Irish,0
+E12000005,West Midlands,-8,Does not apply,6,"White: Gypsy or Irish Traveller, Roma or Other White",0
+E12000005,West Midlands,-8,Does not apply,7,Other ethnic group,0
+E12000005,West Midlands,1,Occupancy rating of bedrooms: 0 or more,-8,Does not apply,0
+E12000005,West Midlands,1,Occupancy rating of bedrooms: 0 or more,1,"Asian, Asian British or Asian Welsh",190477
+E12000005,West Midlands,1,Occupancy rating of bedrooms: 0 or more,2,"Black, Black British, Black Welsh, Caribbean or African",91096
+E12000005,West Midlands,1,Occupancy rating of bedrooms: 0 or more,3,Mixed or Multiple ethnic groups,36731
+E12000005,West Midlands,1,Occupancy rating of bedrooms: 0 or more,4,"White: English, Welsh, Scottish, Northern Irish or British",1852858
+E12000005,West Midlands,1,Occupancy rating of bedrooms: 0 or more,5,White: Irish,28109
+E12000005,West Midlands,1,Occupancy rating of bedrooms: 0 or more,6,"White: Gypsy or Irish Traveller, Roma or Other White",93137
+E12000005,West Midlands,1,Occupancy rating of bedrooms: 0 or more,7,Other ethnic group,32904
+E12000005,West Midlands,2,Occupancy rating of bedrooms: -1 or less,-8,Does not apply,0
+E12000005,West Midlands,2,Occupancy rating of bedrooms: -1 or less,1,"Asian, Asian British or Asian Welsh",32232
+E12000005,West Midlands,2,Occupancy rating of bedrooms: -1 or less,2,"Black, Black British, Black Welsh, Caribbean or African",12785
+E12000005,West Midlands,2,Occupancy rating of bedrooms: -1 or less,3,Mixed or Multiple ethnic groups,2840
+E12000005,West Midlands,2,Occupancy rating of bedrooms: -1 or less,4,"White: English, Welsh, Scottish, Northern Irish or British",42412
+E12000005,West Midlands,2,Occupancy rating of bedrooms: -1 or less,5,White: Irish,493
+E12000005,West Midlands,2,Occupancy rating of bedrooms: -1 or less,6,"White: Gypsy or Irish Traveller, Roma or Other White",7995
+E12000005,West Midlands,2,Occupancy rating of bedrooms: -1 or less,7,Other ethnic group,5427
+E12000006,East of England,-8,Does not apply,-8,Does not apply,0
+E12000006,East of England,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",0
+E12000006,East of England,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",0
+E12000006,East of England,-8,Does not apply,3,Mixed or Multiple ethnic groups,0
+E12000006,East of England,-8,Does not apply,4,"White: English, Welsh, Scottish, Northern Irish or British",0
+E12000006,East of England,-8,Does not apply,5,White: Irish,0
+E12000006,East of England,-8,Does not apply,6,"White: Gypsy or Irish Traveller, Roma or Other White",0
+E12000006,East of England,-8,Does not apply,7,Other ethnic group,0
+E12000006,East of England,1,Occupancy rating of bedrooms: 0 or more,-8,Does not apply,0
+E12000006,East of England,1,Occupancy rating of bedrooms: 0 or more,1,"Asian, Asian British or Asian Welsh",110122
+E12000006,East of England,1,Occupancy rating of bedrooms: 0 or more,2,"Black, Black British, Black Welsh, Caribbean or African",63087
+E12000006,East of England,1,Occupancy rating of bedrooms: 0 or more,3,Mixed or Multiple ethnic groups,36434
+E12000006,East of England,1,Occupancy rating of bedrooms: 0 or more,4,"White: English, Welsh, Scottish, Northern Irish or British",2113849
+E12000006,East of England,1,Occupancy rating of bedrooms: 0 or more,5,White: Irish,31682
+E12000006,East of England,1,Occupancy rating of bedrooms: 0 or more,6,"White: Gypsy or Irish Traveller, Roma or Other White",156290
+E12000006,East of England,1,Occupancy rating of bedrooms: 0 or more,7,Other ethnic group,27550
+E12000006,East of England,2,Occupancy rating of bedrooms: -1 or less,-8,Does not apply,0
+E12000006,East of England,2,Occupancy rating of bedrooms: -1 or less,1,"Asian, Asian British or Asian Welsh",13658
+E12000006,East of England,2,Occupancy rating of bedrooms: -1 or less,2,"Black, Black British, Black Welsh, Caribbean or African",7461
+E12000006,East of England,2,Occupancy rating of bedrooms: -1 or less,3,Mixed or Multiple ethnic groups,2120
+E12000006,East of England,2,Occupancy rating of bedrooms: -1 or less,4,"White: English, Welsh, Scottish, Northern Irish or British",47088
+E12000006,East of England,2,Occupancy rating of bedrooms: -1 or less,5,White: Irish,580
+E12000006,East of England,2,Occupancy rating of bedrooms: -1 or less,6,"White: Gypsy or Irish Traveller, Roma or Other White",15851
+E12000006,East of England,2,Occupancy rating of bedrooms: -1 or less,7,Other ethnic group,3006
+E12000007,London,-8,Does not apply,-8,Does not apply,0
+E12000007,London,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",0
+E12000007,London,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",0
+E12000007,London,-8,Does not apply,3,Mixed or Multiple ethnic groups,0
+E12000007,London,-8,Does not apply,4,"White: English, Welsh, Scottish, Northern Irish or British",0
+E12000007,London,-8,Does not apply,5,White: Irish,0
+E12000007,London,-8,Does not apply,6,"White: Gypsy or Irish Traveller, Roma or Other White",0
+E12000007,London,-8,Does not apply,7,Other ethnic group,0
+E12000007,London,1,Occupancy rating of bedrooms: 0 or more,-8,Does not apply,0
+E12000007,London,1,Occupancy rating of bedrooms: 0 or more,1,"Asian, Asian British or Asian Welsh",474752
+E12000007,London,1,Occupancy rating of bedrooms: 0 or more,2,"Black, Black British, Black Welsh, Caribbean or African",364879
+E12000007,London,1,Occupancy rating of bedrooms: 0 or more,3,Mixed or Multiple ethnic groups,113032
+E12000007,London,1,Occupancy rating of bedrooms: 0 or more,4,"White: English, Welsh, Scottish, Northern Irish or British",1378266
+E12000007,London,1,Occupancy rating of bedrooms: 0 or more,5,White: Irish,84852
+E12000007,London,1,Occupancy rating of bedrooms: 0 or more,6,"White: Gypsy or Irish Traveller, Roma or Other White",463611
+E12000007,London,1,Occupancy rating of bedrooms: 0 or more,7,Other ethnic group,164626
+E12000007,London,2,Occupancy rating of bedrooms: -1 or less,-8,Does not apply,0
+E12000007,London,2,Occupancy rating of bedrooms: -1 or less,1,"Asian, Asian British or Asian Welsh",97902
+E12000007,London,2,Occupancy rating of bedrooms: -1 or less,2,"Black, Black British, Black Welsh, Caribbean or African",91961
+E12000007,London,2,Occupancy rating of bedrooms: -1 or less,3,Mixed or Multiple ethnic groups,15103
+E12000007,London,2,Occupancy rating of bedrooms: -1 or less,4,"White: English, Welsh, Scottish, Northern Irish or British",65240
+E12000007,London,2,Occupancy rating of bedrooms: -1 or less,5,White: Irish,3229
+E12000007,London,2,Occupancy rating of bedrooms: -1 or less,6,"White: Gypsy or Irish Traveller, Roma or Other White",70734
+E12000007,London,2,Occupancy rating of bedrooms: -1 or less,7,Other ethnic group,35702
+E12000008,South East,-8,Does not apply,-8,Does not apply,0
+E12000008,South East,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",0
+E12000008,South East,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",0
+E12000008,South East,-8,Does not apply,3,Mixed or Multiple ethnic groups,0
+E12000008,South East,-8,Does not apply,4,"White: English, Welsh, Scottish, Northern Irish or British",0
+E12000008,South East,-8,Does not apply,5,White: Irish,0
+E12000008,South East,-8,Does not apply,6,"White: Gypsy or Irish Traveller, Roma or Other White",0
+E12000008,South East,-8,Does not apply,7,Other ethnic group,0
+E12000008,South East,1,Occupancy rating of bedrooms: 0 or more,-8,Does not apply,0
+E12000008,South East,1,Occupancy rating of bedrooms: 0 or more,1,"Asian, Asian British or Asian Welsh",176616
+E12000008,South East,1,Occupancy rating of bedrooms: 0 or more,2,"Black, Black British, Black Welsh, Caribbean or African",72052
+E12000008,South East,1,Occupancy rating of bedrooms: 0 or more,3,Mixed or Multiple ethnic groups,52799
+E12000008,South East,1,Occupancy rating of bedrooms: 0 or more,4,"White: English, Welsh, Scottish, Northern Irish or British",3071981
+E12000008,South East,1,Occupancy rating of bedrooms: 0 or more,5,White: Irish,42093
+E12000008,South East,1,Occupancy rating of bedrooms: 0 or more,6,"White: Gypsy or Irish Traveller, Roma or Other White",218934
+E12000008,South East,1,Occupancy rating of bedrooms: 0 or more,7,Other ethnic group,42142
+E12000008,South East,2,Occupancy rating of bedrooms: -1 or less,-8,Does not apply,0
+E12000008,South East,2,Occupancy rating of bedrooms: -1 or less,1,"Asian, Asian British or Asian Welsh",21771
+E12000008,South East,2,Occupancy rating of bedrooms: -1 or less,2,"Black, Black British, Black Welsh, Caribbean or African",9009
+E12000008,South East,2,Occupancy rating of bedrooms: -1 or less,3,Mixed or Multiple ethnic groups,2973
+E12000008,South East,2,Occupancy rating of bedrooms: -1 or less,4,"White: English, Welsh, Scottish, Northern Irish or British",72227
+E12000008,South East,2,Occupancy rating of bedrooms: -1 or less,5,White: Irish,702
+E12000008,South East,2,Occupancy rating of bedrooms: -1 or less,6,"White: Gypsy or Irish Traveller, Roma or Other White",19586
+E12000008,South East,2,Occupancy rating of bedrooms: -1 or less,7,Other ethnic group,5081
+E12000009,South West,-8,Does not apply,-8,Does not apply,0
+E12000009,South West,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",0
+E12000009,South West,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",0
+E12000009,South West,-8,Does not apply,3,Mixed or Multiple ethnic groups,0
+E12000009,South West,-8,Does not apply,4,"White: English, Welsh, Scottish, Northern Irish or British",0
+E12000009,South West,-8,Does not apply,5,White: Irish,0
+E12000009,South West,-8,Does not apply,6,"White: Gypsy or Irish Traveller, Roma or Other White",0
+E12000009,South West,-8,Does not apply,7,Other ethnic group,0
+E12000009,South West,1,Occupancy rating of bedrooms: 0 or more,-8,Does not apply,0
+E12000009,South West,1,Occupancy rating of bedrooms: 0 or more,1,"Asian, Asian British or Asian Welsh",44616
+E12000009,South West,1,Occupancy rating of bedrooms: 0 or more,2,"Black, Black British, Black Welsh, Caribbean or African",23168
+E12000009,South West,1,Occupancy rating of bedrooms: 0 or more,3,Mixed or Multiple ethnic groups,25495
+E12000009,South West,1,Occupancy rating of bedrooms: 0 or more,4,"White: English, Welsh, Scottish, Northern Irish or British",2163113
+E12000009,South West,1,Occupancy rating of bedrooms: 0 or more,5,White: Irish,17427
+E12000009,South West,1,Occupancy rating of bedrooms: 0 or more,6,"White: Gypsy or Irish Traveller, Roma or Other White",100547
+E12000009,South West,1,Occupancy rating of bedrooms: 0 or more,7,Other ethnic group,16095
+E12000009,South West,2,Occupancy rating of bedrooms: -1 or less,-8,Does not apply,0
+E12000009,South West,2,Occupancy rating of bedrooms: -1 or less,1,"Asian, Asian British or Asian Welsh",4965
+E12000009,South West,2,Occupancy rating of bedrooms: -1 or less,2,"Black, Black British, Black Welsh, Caribbean or African",3206
+E12000009,South West,2,Occupancy rating of bedrooms: -1 or less,3,Mixed or Multiple ethnic groups,1317
+E12000009,South West,2,Occupancy rating of bedrooms: -1 or less,4,"White: English, Welsh, Scottish, Northern Irish or British",39740
+E12000009,South West,2,Occupancy rating of bedrooms: -1 or less,5,White: Irish,261
+E12000009,South West,2,Occupancy rating of bedrooms: -1 or less,6,"White: Gypsy or Irish Traveller, Roma or Other White",7335
+E12000009,South West,2,Occupancy rating of bedrooms: -1 or less,7,Other ethnic group,1597
+W92000004,Wales,-8,Does not apply,-8,Does not apply,0
+W92000004,Wales,-8,Does not apply,1,"Asian, Asian British or Asian Welsh",0
+W92000004,Wales,-8,Does not apply,2,"Black, Black British, Black Welsh, Caribbean or African",0
+W92000004,Wales,-8,Does not apply,3,Mixed or Multiple ethnic groups,0
+W92000004,Wales,-8,Does not apply,4,"White: English, Welsh, Scottish, Northern Irish or British",0
+W92000004,Wales,-8,Does not apply,5,White: Irish,0
+W92000004,Wales,-8,Does not apply,6,"White: Gypsy or Irish Traveller, Roma or Other White",0
+W92000004,Wales,-8,Does not apply,7,Other ethnic group,0
+W92000004,Wales,1,Occupancy rating of bedrooms: 0 or more,-8,Does not apply,0
+W92000004,Wales,1,Occupancy rating of bedrooms: 0 or more,1,"Asian, Asian British or Asian Welsh",24825
+W92000004,Wales,1,Occupancy rating of bedrooms: 0 or more,2,"Black, Black British, Black Welsh, Caribbean or African",9050
+W92000004,Wales,1,Occupancy rating of bedrooms: 0 or more,3,Mixed or Multiple ethnic groups,11913
+W92000004,Wales,1,Occupancy rating of bedrooms: 0 or more,4,"White: English, Welsh, Scottish, Northern Irish or British",1222246
+W92000004,Wales,1,Occupancy rating of bedrooms: 0 or more,5,White: Irish,7454
+W92000004,Wales,1,Occupancy rating of bedrooms: 0 or more,6,"White: Gypsy or Irish Traveller, Roma or Other White",33677
+W92000004,Wales,1,Occupancy rating of bedrooms: 0 or more,7,Other ethnic group,8220
+W92000004,Wales,2,Occupancy rating of bedrooms: -1 or less,-8,Does not apply,0
+W92000004,Wales,2,Occupancy rating of bedrooms: -1 or less,1,"Asian, Asian British or Asian Welsh",2378
+W92000004,Wales,2,Occupancy rating of bedrooms: -1 or less,2,"Black, Black British, Black Welsh, Caribbean or African",1177
+W92000004,Wales,2,Occupancy rating of bedrooms: -1 or less,3,Mixed or Multiple ethnic groups,481
+W92000004,Wales,2,Occupancy rating of bedrooms: -1 or less,4,"White: English, Welsh, Scottish, Northern Irish or British",22630
+W92000004,Wales,2,Occupancy rating of bedrooms: -1 or less,5,White: Irish,107
+W92000004,Wales,2,Occupancy rating of bedrooms: -1 or less,6,"White: Gypsy or Irish Traveller, Roma or Other White",2038
+W92000004,Wales,2,Occupancy rating of bedrooms: -1 or less,7,Other ethnic group,921
